@@ -1,4 +1,4 @@
-# vue-ssr-cli-webpack-nodejs
+# vue-ssr-old
 
 > A Vue.js project
 
